@@ -1,0 +1,31 @@
+h1 {
+  background-color: white;
+  color: #d8ac9c;
+  font-size: 39px;
+  font-family:Arial;
+  text-align: left;
+}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid #d8ac9c;
+  width: 1000px;
+  height: 50px;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #999b84;
+  color: #efd9d1;
+  font-size: 29px;
+  font-family:Arial;
+  text-align: center;
+}
+
+td {
+  background-color: #f4eeed;
+  color: #999b84;
+  font-size: 22px;
+  font-family:Arial;
+  text-align: left;
+}
